@@ -14,14 +14,14 @@
 
 <!-- NavBar -->
 <div class="sidenav" id="mySidenav">
-  <a href="https://people.rit.edu/jlb2886/Sites/RochesterMercyMedical/html/home.php">Home</a>
-  <a href="https://people.rit.edu/jlb2886/Sites/RochesterMercyMedical/html/aboutUs.php">About Us</a>
-  <a href="https://people.rit.edu/jlb2886/Sites/RochesterMercyMedical/html/meetOurTeam.php">Meet Our Team</a>
-  <a href="https://people.rit.edu/jlb2886/Sites/RochesterMercyMedical/html/billingInformation.php">Billing Information</a>
-  <a class = "active" href="https://people.rit.edu/jlb2886/Sites/RochesterMercyMedical/html/acceptedInsurance.php">Accepted Insurance</a>
-  <a href="https://people.rit.edu/jlb2886/Sites/RochesterMercyMedical/html/contactUs.php">Contact Us</a>
-  <a href="https://people.rit.edu/jlb2886/Sites/RochesterMercyMedical/html/newPatients.php">New Patients</a>
-  <a href="https://people.rit.edu/jlb2886/Sites/RochesterMercyMedical/html/patientPortal.php">Patient Portal</a>
+  <a href="home.php">Home</a>
+  <a href="aboutUs.php">About Us</a>
+  <a href="meetOurTeam.php">Meet Our Team</a>
+  <a href="billingInformation.php">Billing Information</a>
+  <a class = "active" href="acceptedInsurance.php">Accepted Insurance</a>
+  <a href="contactUs.php">Contact Us</a>
+  <a href="newPatients.php">New Patients</a>
+  <a href="patientPortal.php">Patient Portal</a>
 </div>
 
 <!-- Main Content -->

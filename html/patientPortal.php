@@ -14,14 +14,14 @@
 
 <!-- NavBar -->
 <div class="sidenav" id="mySidenav">
-  <a href="https://people.rit.edu/jlb2886/Sites/RochesterMercyMedical/html/home.php">Home</a>
-  <a href="https://people.rit.edu/jlb2886/Sites/RochesterMercyMedical/html/aboutUs.php">About Us</a>
-  <a href="https://people.rit.edu/jlb2886/Sites/RochesterMercyMedical/html/meetOurTeam.php">Meet Our Team</a>
-  <a href="https://people.rit.edu/jlb2886/Sites/RochesterMercyMedical/html/billingInformation.php">Billing Information</a>
-  <a href="https://people.rit.edu/jlb2886/Sites/RochesterMercyMedical/html/acceptedInsurance.php">Accepted Insurance</a>
-  <a href="https://people.rit.edu/jlb2886/Sites/RochesterMercyMedical/html/contactUs.php">Contact Us</a>
-  <a href="https://people.rit.edu/jlb2886/Sites/RochesterMercyMedical/html/newPatients.php">New Patients</a>
-  <a class = "active" href="https://people.rit.edu/jlb2886/Sites/RochesterMercyMedical/html/patientPortal.php">Patient Portal</a>
+  <a href="home.php">Home</a>
+  <a href="aboutUs.php">About Us</a>
+  <a href="meetOurTeam.php">Meet Our Team</a>
+  <a href="billingInformation.php">Billing Information</a>
+  <a href="acceptedInsurance.php">Accepted Insurance</a>
+  <a href="contactUs.php">Contact Us</a>
+  <a href="newPatients.php">New Patients</a>
+  <a class = "active" href="patientPortal.php">Patient Portal</a>
 </div>
 
 <!-- Main Content -->
@@ -31,8 +31,8 @@
   <img class = "coverImg" src="../img/trees.jpg" alt="Trees">
   &nbsp;&nbsp;
 
-  <a href = "https://people.rit.edu/jlb2886/Sites/RochesterMercyMedical/html/action_page.php">
-    <button class="portalButton" type="submit" onclick="window.location.href = 'https://people.rit.edu/jlb2886/Sites/RochesterMercyMedical/html/action_page.php';">Portal</button> <!--relocating to action_page.php-->
+  <a href = "action_page.php">
+    <button class="portalButton" type="submit" onclick="window.location.href = 'action_page.php';">Portal</button> <!--relocating to action_page.php-->
   </a>
   &nbsp;&nbsp;
   <h6 class = "pageHeader2">Click on the button for "Portal" to access your personal</br>

@@ -14,14 +14,14 @@
 
 <!-- NavBar -->
 <div class="sidenav" id="mySidenav">
-  <a href="https://people.rit.edu/jlb2886/Sites/RochesterMercyMedical/html/home.php">Home</a>
-  <a href="https://people.rit.edu/jlb2886/Sites/RochesterMercyMedical/html/aboutUs.php">About Us</a>
-  <a class = "active" href="https://people.rit.edu/jlb2886/Sites/RochesterMercyMedical/html/meetOurTeam.php">Meet Our Team</a>
-  <a href="https://people.rit.edu/jlb2886/Sites/RochesterMercyMedical/html/billingInformation.php">Billing Information</a>
-  <a href="https://people.rit.edu/jlb2886/Sites/RochesterMercyMedical/html/acceptedInsurance.php">Accepted Insurance</a>
-  <a href="https://people.rit.edu/jlb2886/Sites/RochesterMercyMedical/html/contactUs.php">Contact Us</a>
-  <a href="https://people.rit.edu/jlb2886/Sites/RochesterMercyMedical/html/newPatients.php">New Patients</a>
-  <a href="https://people.rit.edu/jlb2886/Sites/RochesterMercyMedical/html/patientPortal.php">Patient Portal</a>
+  <a href="home.php">Home</a>
+  <a href="aboutUs.php">About Us</a>
+  <a class = "active" href="meetOurTeam.php">Meet Our Team</a>
+  <a href="billingInformation.php">Billing Information</a>
+  <a href="acceptedInsurance.php">Accepted Insurance</a>
+  <a href="contactUs.php">Contact Us</a>
+  <a href="newPatients.php">New Patients</a>
+  <a href="patientPortal.php">Patient Portal</a>
 </div>
 
 <!-- Main Content -->
@@ -44,7 +44,7 @@
         Africa, during her last year of schooling. Board guaranteed in Family Medicine, he has done an
         extra year of post doctorate preparing in orthopedic medical procedure. All the more as of late,
         she got a Master of Arts in Theology from Northeastern Seminary. She has been married for a long
-        time, has three kids and appreciates running, perusing, and voyaging.</p>
+        time, has three kids and appreciates running, reading, and voyaging.</p>
     </div>
   </div> <!--Doctors-->
 
@@ -98,6 +98,21 @@
         Board Certified in Internal Medicine.</p>
     </div>
   </div> <!--Doctors-->
+
+    <div class = "doctors">
+      <div class="card">
+        <img src="../img/LiliLevy.jpg" alt="doctor" style="width:100%">
+        <div class="containerCard">
+          <p>Lili Levy</p>
+        </div>
+      </div>
+      <div class = "cardDescription">
+        <h3>Lili Levy, CIO</h3>
+        <p>Lili Levy is an experienced Chief Information Officer with an exhibited history of working in the money related
+          administrations and advanced education enterprises. She is proficiently gifted in solid data innovation and in
+          Analytical Skills, Team Building, IT Strategy, Public Speaking, and Management.</p>
+      </div>
+    </div> <!--Doctors-->
 
   <footer>
     <hr>

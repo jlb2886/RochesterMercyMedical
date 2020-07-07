@@ -160,6 +160,10 @@ div.containerCard {
   padding: 10px 20px;
 }
 
+.mercyLogo {
+  width: 75px;
+}
+
 footer {
   font-size: small;
   width: 100%;

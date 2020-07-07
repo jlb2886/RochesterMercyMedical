@@ -14,27 +14,27 @@
 
     <!-- NavBar -->
     <div class="sidenav" id="mySidenav">
-      <a class = "active" href="https://people.rit.edu/jlb2886/Sites/RochesterMercyMedical/html/home.php">Home</a>
-      <a href="https://people.rit.edu/jlb2886/Sites/RochesterMercyMedical/html/aboutUs.php">About Us</a>
-      <a href="https://people.rit.edu/jlb2886/Sites/RochesterMercyMedical/html/meetOurTeam.php">Meet Our Team</a>
-      <a href="https://people.rit.edu/jlb2886/Sites/RochesterMercyMedical/html/billingInformation.php">Billing Information</a>
-      <a href="https://people.rit.edu/jlb2886/Sites/RochesterMercyMedical/html/acceptedInsurance.php">Accepted Insurance</a>
-      <a href="https://people.rit.edu/jlb2886/Sites/RochesterMercyMedical/html/contactUs.php">Contact Us</a>
-      <a href="https://people.rit.edu/jlb2886/Sites/RochesterMercyMedical/html/newPatients.php">New Patients</a>
-      <a href="https://people.rit.edu/jlb2886/Sites/RochesterMercyMedical/html/patientPortal.php">Patient Portal</a>
+      <a class = "active" href="home.php">Home</a>
+      <a href="aboutUs.php">About Us</a>
+      <a href="meetOurTeam.php">Meet Our Team</a>
+      <a href="billingInformation.php">Billing Information</a>
+      <a href="acceptedInsurance.php">Accepted Insurance</a>
+      <a href="contactUs.php">Contact Us</a>
+      <a href="newPatients.php">New Patients</a>
+      <a href="patientPortal.php">Patient Portal</a>
     </div>
 
     <!-- Main Content -->
     <div class="main">
 
-      <h2 class = "pageHeader">Welcome to Rochester Mercy Medical</h2>
+      <h2 class = "pageHeader"><img class = "mercyLogo" src="../img/MercyMedicalLogo.png" alt="Mercy Medical Logo">Welcome to Rochester Mercy Medical</h2>
       <img class = "coverImg" src="../img/trees.jpg" alt="Trees">
 
       <div class = "paragraph">
       <p class = "textInfo"> We are an independent family practice committed to excellence in health care
         encompassing the whole person: physically, psychologically, socially, and spiritually. our highly
         trained medical experts are dedicated to helping you achieve and maintain optimum health by providing
-        cheerful, compassionate, and competent healthcare. we have been serving the Rochester Area since 1995.</p>
+        cheerful, compassionate, and competent healthcare. We have been serving the Rochester Area since 1995.</p>
       </div> <!--paragraph-->
 
       <h3 class = "paragraphHeader">We are taking new patients</h3>
